@@ -11,7 +11,7 @@ Profitability by city & tenure
 
 Tools Used
 Tableau – Data visualization
-Excel/CSV – Data preprocessing
+Excel – Data preprocessing
 
 Outcome
 A clear, interactive dashboard enabling better decision-making in the banking and insurance sector.
